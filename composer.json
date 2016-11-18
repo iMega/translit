@@ -1,0 +1,25 @@
+{
+  "name": "imega/translit",
+  "description": "",
+  "keywords": ["translator", "transliteration", "convert", "conversion", "convert"],
+  "homepage": "https://github.com/iMega/translit",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dmitry Gavriloff",
+      "email": "info@imega.ru",
+      "homepage": "http://imega.ru"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "imega/formatter": "^0.0.4"
+  },
+  "autoload": {
+    "psr-4": {"iMega\\Translit\\": "src"}
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.6"
+  }
+}
