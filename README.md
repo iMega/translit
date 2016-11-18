@@ -10,6 +10,16 @@
 
 The conversion of scripts or writing is a procedure of replacing text written in one script or writing system with the characters of another script or system in order to make the text (e.g., proper names) legible for users of another language or script.
 
+## Allowed systems for romanizing Russian
+Romanization of the Russian alphabet is the process of transliterating the Russian language from the Cyrillic script into the Latin alphabet.
+See https://en.wikipedia.org/wiki/Romanization_of_Russian
+
+| Class | System |
+|----|----|
+| Passport | Passport (2013-) ICAO |
+| Passport2010 | Passport (2010) |
+| Passport1997 | Passport (1997) |
+
 ## Usage
 
 ```php
